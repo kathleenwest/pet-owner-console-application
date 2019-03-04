@@ -1,4 +1,7 @@
-Pet Owner Console Application
+#Pet Owner Console Application
+
+Project Blog Article: https://portfolio.katiegirl.net/2018/07/18/pet-owner-console-application/
+
 My Student Project: C# for Beginners : Assignment #1 (Series)
 Permission to publish my code submitted for the project assignment was granted by the professor.
 
